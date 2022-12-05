@@ -21,7 +21,7 @@ Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/iago-soares-duque-estrada-1b994b92/?originalSubdomain=br)
 * [Medium](https://medium.com/@iagosde93)
-
+* [Portfólio Completo](https://github.com/iagosde/data_science)
 
 ## Projetos:
 
