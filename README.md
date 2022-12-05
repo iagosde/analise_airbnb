@@ -23,10 +23,10 @@ Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das 
 * [Medium](https://medium.com/@iagosde93)
 * [Portfólio Completo](https://github.com/iagosde/data_science)
 
-## Projetos:
+## Projeto:
 
 
-
+* [Link para o projeto completo](https://medium.com/@iagosde93)
 
 
 ---
