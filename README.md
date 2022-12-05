@@ -26,7 +26,7 @@ Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das 
 ## Projeto:
 
 
-* [Link para o projeto completo](https://medium.com/@iagosde93)
+* [Link para o projeto completo](https://github.com/iagosde/analise_airbnb/blob/main/Analisando_os_Dados_do_Airbnb_(Asheville).ipynb)
 
 
 ---
