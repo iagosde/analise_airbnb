@@ -4,7 +4,7 @@
   <center><img alt="Analisando Airbnb" width="30%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></center>
 </p>
 
-# Análise dos Dados do Airbnb - *Asheville - Carolina do Norte*
+# Análise dos Dados do Airbnb: *Asheville - Carolina do Norte*
 
 O [Airbnb](https://www.airbnb.com.br/) já é considerado como sendo a **maior empresa hoteleira da atualidade**. Ah, o detalhe é que ele **não possui nenhum hotel**!
 
